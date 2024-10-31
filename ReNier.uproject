@@ -33,6 +33,10 @@
 		{
 			"Name": "Spatialization",
 			"Enabled": true
+		},
+		{
+			"Name": "DataprepEditor",
+			"Enabled": true
 		}
 	]
 }
